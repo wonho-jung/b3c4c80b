@@ -26,6 +26,7 @@ The Data type was only answered, So I made fake data to show the UI what it look
 
 #Actual endpoint 
 `/activities`:
+
 `[
     {
         "direction": "inbound",
@@ -50,7 +51,9 @@ The Data type was only answered, So I made fake data to show the UI what it look
         "created_at": "2024-07-03T20:41:57.436Z"
     }
 ]`
+
 `/activities/${id}`:
+
 `{
     "direction": "inbound",
     "from": 1,
