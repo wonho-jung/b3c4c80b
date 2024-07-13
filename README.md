@@ -1,5 +1,6 @@
 ## Screen shoot
 The Data type was only answered, So I made fake data to show the UI what it looked like.
+
 ![Screenshot 2024-07-12 at 2 39 34 PM](https://github.com/user-attachments/assets/316b0d36-58b3-403c-93a1-0ef2bf39a782)
 ![Screenshot 2024-07-12 at 2 39 26 PM](https://github.com/user-attachments/assets/d333abd8-29b0-45ea-a50f-70b06dba02c3)
 ![Screenshot 2024-07-12 at 2 38 57 PM](https://github.com/user-attachments/assets/1147fb81-092b-4159-aa54-73604a1de470)
@@ -15,7 +16,7 @@ The Data type was only answered, So I made fake data to show the UI what it look
   - [TailwindCSS](https://tailwindcss.com/) for styling.
   - [MUI](https://mui.com/) for UI and icon.
   - Axios to fetch data
-  - unstated-next to small and simple state management
+  - [unstated-next](https://aexol.com/posts/unstated-next-vs-redux-which-is-better-for-managing-state-in-react/) to small and simple state management
 
 
 ## Code architecture (outdated)
