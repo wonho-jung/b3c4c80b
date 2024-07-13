@@ -6,7 +6,6 @@ import TabPanel from "@mui/lab/TabPanel";
 import { TabContext } from "@mui/lab";
 import Inbox from "./components/Inbox";
 import Archived from "./components/Archived";
-import AirCallContainer from "./containers/airCallContainer";
 import { Helmet } from "react-helmet";
 
 const App = () => {
