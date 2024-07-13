@@ -5,11 +5,11 @@
   "main": "index.js",
   "repository": "",
   "author": "",
-  "license": "",
+  "license": "MIT",
   "private": false,
   "scripts": {
     "start": "webpack-dev-server --mode development --open",
-    "build": "webpack --mode production"
+    "build": "react-scripts build"
   },
   "dependencies": {
     "@emotion/react": "^11.11.4",
