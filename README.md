@@ -73,8 +73,8 @@ The Data type was only answered, So I made fake data to show the UI what it look
 ## What I want to say
 
 First of all, Thank you for giving me a chance. It was really fun to do the airball assignment.
-The data was simple, and the detailed endpoint was the same as the one for getting calls. I was expected to have more info to display 😂
-
+The data was simple, and the detailed endpoint was the same for getting calls. I was expected to have more info to display 😂
+I came back from vacation, So I started a bit late, but hopefully, it's not too late to submit.
 ## Problem & solved
 - The first time, the child component has too many states and functions. So, to make a reusable component, move on to the parent level and rebuild the card component as a reusable component.
-- Fetch with Axios in each component to unnecessary or duplicate state such as loading, error... -> Made Fetch hook to reduce unnecessary state use case and save time to code😌.
+- Fetch with Axios in each component to unnecessary or duplicate states such as loading or error. -> Made Fetch hook to reduce unnecessary state use cases and save time in code😌.
