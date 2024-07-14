@@ -68,6 +68,7 @@ The Data type was only answered, So I made fake data to show the UI what it look
 }`
 
 ## Deploying
+[netlify - aircall](https://tailwindcss.com/)
 
 ## What I want to say
 
