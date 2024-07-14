@@ -68,12 +68,12 @@ The Data type was only answered, So I made fake data to show the UI what it look
 }`
 
 ## Deploying
-[netlify - aircall](https://tailwindcss.com/)
+[netlify - aircall](https://vocal-cactus-49211a.netlify.app/)
 
 ## What I want to say
 
 First of all, Thank you for giving me a chance. It was really fun to do the airball assignment.
-The data was simple and the detailed endpoint was the same as getting calls. I was expected to have more info to display 😂
+The data was simple, and the detailed endpoint was the same as the one for getting calls. I was expected to have more info to display 😂
 
 ## Problem & solved
 - The first time, the child component has too many states and functions. So, to make a reusable component, move on to the parent level and rebuild the card component as a reusable component.
