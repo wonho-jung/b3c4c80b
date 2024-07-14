@@ -1,9 +1,9 @@
 ## Screen shoot
 The Data type was only answered, So I made fake data to show the UI what it looked like.
 
-![Screenshot 2024-07-12 at 2 39 34 PM](https://github.com/user-attachments/assets/316b0d36-58b3-403c-93a1-0ef2bf39a782)
-![Screenshot 2024-07-12 at 2 39 26 PM](https://github.com/user-attachments/assets/d333abd8-29b0-45ea-a50f-70b06dba02c3)
-![Screenshot 2024-07-12 at 2 38 57 PM](https://github.com/user-attachments/assets/1147fb81-092b-4159-aa54-73604a1de470)
+![Screenshot 2024-07-12 at 2 39 34 PM](https://github.com/user-attachments/assets/1150358e-a77d-4439-8986-e6d29dec385d)
+![Screenshot 2024-07-12 at 2 39 26 PM](https://github.com/user-attachments/assets/290b3ac4-12bf-4150-b76c-d272db4d6d5e)
+![Screenshot 2024-07-12 at 2 38 57 PM](https://github.com/user-attachments/assets/7e8ee0ce-1e71-4fca-a4eb-200c07ef2216)
 
 ## Features
 - inbox to show Activity Feed
