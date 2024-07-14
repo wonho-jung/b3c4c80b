@@ -25,7 +25,7 @@ The Data type was only answered, So I made fake data to show the UI what it look
  - `src/utils`: All the functions & API.
    - `backend`: custom react hooks for fetching.
 
-#Actual endpoint 
+# Actual endpoint 
 `/activities`:
 
 `[
