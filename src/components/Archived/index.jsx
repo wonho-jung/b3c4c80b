@@ -1,4 +1,4 @@
-import { Divider } from "@mui/material";
+import { Box, Divider } from "@mui/material";
 import React from "react";
 import Button from "@mui/material/Button";
 import AirCallContainer from "../../containers/AirCallContainer";
@@ -41,7 +41,12 @@ const Archived = () => {
 
       <div>
         {archivedList.length > 0 ? (
-          <>
+            <Box
+            sx={{
+              height: "400px",
+              overflow: "auto",
+              padding: "0 10px",
+            }}>
             {archivedList.map((call) => (
               <div key={call.id}>
                 <ActivityCard
@@ -61,7 +66,7 @@ const Archived = () => {
                 />
               </div>
             ))}
-          </>
+          </Box>
         ) : (
           <div>
             <h3 className="text-gray-400">
